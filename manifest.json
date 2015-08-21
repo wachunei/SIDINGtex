@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "SIDINGtex",
   "description": "Habilita el uso de MathJax en el SIDING",
-  "version": "0.1",
+  "version": "0.1.1",
   "web_accessible_resources": ["js/domManipulation.js"],
   "content_scripts": [
     {
